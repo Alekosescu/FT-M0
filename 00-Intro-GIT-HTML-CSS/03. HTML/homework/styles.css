@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+h3{
+    color: green;
+}
+spanId{
+    font-size: 18px; margin: 50px;
+}
+thirdDiv{
+    height: 600px; width: 500px; background-color: rgb(50, 93, 172); padding: 50px; border: 1px solid
+}
+body {
+    background-image: url("https://www.teahub.io/photos/full/312-3121674_20-inspirational-quotes-peace-mind-peace-of-mind.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
